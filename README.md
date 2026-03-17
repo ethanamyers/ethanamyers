@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ethanamyers
 - 👀 I’m interested in:
-  - computer hardware
-  - information security
-  - applying AI/DS to medical research and the arts (and probably not much else)
-  - quantum computing
+  - embedded systems security
+  - synthetic biology on the side
+  - quantum engineering on a third side
 - 🌱 I’m currently learning the aforementioned things 
 - 💞️ I’m looking to collaborate on ... eh nothing yet
 - 📫 How to reach me ... ethan.a.myers@gmail.com
